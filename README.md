@@ -7,6 +7,7 @@
 - 👨‍💻 I’m pre-final year CSE Student at **Thapar University.**
 - 🌱 I’m currently learning **Machine Learning and Computer Vision.**
 - 🔭 I’m currently working on **Real-time projects.**
+- 💻 Most of my projects are available on <a href="https://github.com/nandinisetia">**Github**</a>
 - 📫 How to reach me **nandinisetia003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
