@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinisetia&label=Profile%20views&color=0e75b6&style=flat" alt="nandinisetia" /> </p>
 
-- 🌱 I’m pre-final year CSE Student at **Thapar University.**
+- 👨‍💻 I’m pre-final year CSE Student at **Thapar University.**
 - 🌱 I’m currently learning **Machine Learning and Computer Vision.**
 - 🔭 I’m currently working on **Real-time projects.**
 - 📫 How to reach me **nandinisetia003@gmail.com**
